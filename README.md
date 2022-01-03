@@ -12,3 +12,5 @@ This is my 4th commit using LG laptop.
 Here we start Git Bash Advanced,
 
 This is my 5th commit using LG laptop.
+
+This is a test commit.
