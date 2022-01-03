@@ -1,3 +1,0 @@
-This is a backup branch containing the Readme file of the main branch.
-Hope I will never use it.
-Git Bash is full of surprizes. So better to keep a backup plan.
